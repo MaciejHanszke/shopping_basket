@@ -1,0 +1,26 @@
+{
+  "Baked Beans": {
+    "price": 0.99,
+    "id": 1
+  },
+  "Biscuits": {
+	"price": 1.20,
+	"id": 2
+  },
+  "Sardines": {
+      "price": 1.89,
+      "id": 3
+  },
+  "Shampoo (Small)": {
+      "price": 2.00,
+      "id": 4
+  },
+  "Shampoo (Medium)": {
+      "price": 2.50,
+      "id": 5
+  },
+  "Shampoo (Large)": {
+      "price": 3.50,
+      "id": 6
+  }
+}

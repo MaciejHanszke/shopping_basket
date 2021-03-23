@@ -1,0 +1,17 @@
+{
+    "beans_3_for_2":{
+        "qualification_item_ids":[1],
+        "qualifying_no":3,
+        "discount_size":100
+    },
+    "sardines_25_off": {
+        "qualification_item_ids":[3],
+        "qualifying_no":1,
+        "discount_size":25
+    },
+    "shampoo_diff_3_for_2":{
+        "qualification_item_ids":[4,5,6],
+        "qualifying_no":3,
+        "discount_size":100
+    }
+}
